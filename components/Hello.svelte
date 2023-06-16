@@ -14,4 +14,6 @@
     <BarChart 
         data={query} 
         swapXY={swapXY}
+        y=sales_usd
+        yMax=1000
     />
